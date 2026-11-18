@@ -1,3 +1,4 @@
 # title
-bu text ajoyib
+bu text git pull command 
+
 
